@@ -8,9 +8,9 @@
 <a href="https://portfolio-davidb-webdev.vercel.app"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="website Logo"></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-besse&label=Profile%20views&color=0e75b6&style=flat" alt="david-besse" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=david-besse&label=Profile%20views&color=0e75b6&style=flat" alt="david-besse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-besse" alt="david-besse" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-besse" alt="david-besse" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-davidb-webdev.vercel.app/](https://portfolio-davidb-webdev.vercel.app/)
 
