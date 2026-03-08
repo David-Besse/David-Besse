@@ -42,7 +42,7 @@
 
 ## GitHub Analytics
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub languages" />
   <img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub overview" />
 </p>
