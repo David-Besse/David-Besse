@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Hey%2C+my+name+is+David+!;I'm+a+fullstack+web+developer.;If+one+motto+could+define+me%2C+I'd+probably+choose+this+one%3A;%22We+learn+by+doing.%22" alt="Typing SVG" />
 </p>
 
-Full-Stack Web Developer
-
 I design and build modern web applications with a quality-first mindset: maintainable code, strong performance, and polished user experience.
 
 <div>
