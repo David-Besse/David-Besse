@@ -27,7 +27,19 @@ I design and build modern web applications with a quality-first mindset: maintai
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nodejs,express,php,laravel,symfony,python,postgres,mysql,mongodb,sqlite,git,linux,tailwind,sass" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Core languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind,sass,bootstrap,webpack,babel" alt="Front-end frameworks and tooling" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,symfony,postgres,mysql,mongodb,mariadb,sqlite" alt="Back-end and databases" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,jest,postman,figma,androidstudio,blender" alt="Tools and ecosystem" />
 </p>
 
 <p align="center">
@@ -44,3 +56,4 @@ I design and build modern web applications with a quality-first mindset: maintai
   <img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub languages" />
   <img src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub overview" />
 </p>
+
