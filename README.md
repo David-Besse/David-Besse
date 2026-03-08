@@ -35,7 +35,7 @@ I design and build modern web applications with a quality-first mindset: maintai
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,symfony,postgres,mysql,mongodb,mariadb,sqlite" alt="Back-end and databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,symfony,postgres,mysql,mongodb,maria,sqlite" alt="Back-end and databases" />
 </p>
 
 <p align="center">
