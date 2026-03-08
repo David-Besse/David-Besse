@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Hey%2C+my+name+is+David+!;I'm+a+fullstack+web+developer.;If+one+motto+could+define+me%2C+I'd+probably+choose+this+one%3A;%22We+learn+by+doing.%22" alt="Typing SVG" />
 </p>
 
-I design and build modern web applications with a quality-first mindset: maintainable code, strong performance, and polished user experience.
-
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/davidb-webdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://portfolio-davidb-webdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:davidb.webdev@gmail.com"><img src="https://img.shields.io/badge/Email-davidb.webdev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
