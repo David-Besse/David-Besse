@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=david-besse&label=Profile%20views&color=0e75b6&style=flat" alt="david-besse" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-besse" alt="david-besse" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=david-besse" alt="david-besse" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-davidb-webdev.vercel.app/](https://portfolio-davidb-webdev.vercel.app/)
 
