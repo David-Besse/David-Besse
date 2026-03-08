@@ -14,6 +14,10 @@
 - Comfortable across the full lifecycle: architecture, implementation, testing, deployment, and maintenance.
 - Currently working as an Odoo Developer, building and customizing ERP modules and business workflows.
 
+## Projects
+
+- Portfolio and selected work: [portfolio-davidb-webdev.vercel.app](https://portfolio-davidb-webdev.vercel.app)
+
 ## Languages and Tools
 
 <p align="center">
@@ -35,10 +39,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 </p>
-
-## Projects
-
-- Portfolio and selected work: [portfolio-davidb-webdev.vercel.app](https://portfolio-davidb-webdev.vercel.app)
 
 ## GitHub Analytics
 
