@@ -16,14 +16,6 @@ I design and build modern web applications with a quality-first mindset: maintai
 - Comfortable across the full lifecycle: architecture, implementation, testing, deployment, and maintenance.
 - Currently working as an Odoo Developer, building and customizing ERP modules and business workflows.
 
-## Core Skills
-
-- Front-end: React, Next.js, Angular, Vue.js, TypeScript, JavaScript, Tailwind CSS, Sass
-- Back-end: Node.js, Express, PHP, Laravel, Symfony, Python
-- ERP and Business Apps: Odoo (module development, customization, ORM, views, workflows, integrations)
-- Databases: PostgreSQL, MySQL, MongoDB, MariaDB, SQLite
-- Quality and Tools: Jest, Jasmine, Postman, Git, Linux
-
 ## Languages and Tools
 
 <p align="center">
