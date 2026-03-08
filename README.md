@@ -27,12 +27,6 @@
   <img align="center" src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="david-besse languages dark" />
   <img align="center" src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/languages.svg#gh-light-mode-only" alt="david-besse languages light" />
 </p>
-
-<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg#gh-dark-mode-only" alt="david-besse overview dark" />
   <img align="center" src="https://raw.githubusercontent.com/David-Besse/github_stats/master/generated/overview.svg#gh-light-mode-only" alt="david-besse overview light" />
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-besse&" alt="david-besse" /></p>
-
-
