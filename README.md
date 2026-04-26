@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/davidb-webdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-davidb-webdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:davidb.webdev@gmail.com"><img src="https://img.shields.io/badge/Email-davidb.webdev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
