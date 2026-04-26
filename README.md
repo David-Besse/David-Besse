@@ -14,10 +14,6 @@
 - Comfortable across the full lifecycle: architecture, implementation, testing, deployment, and maintenance.
 - Currently working as an Odoo Developer, building and customizing ERP modules and business workflows.
 
-## Projects
-
-- Portfolio and selected work: [portfolio-davidb-webdev.vercel.app](https://portfolio-davidb-webdev.vercel.app)
-
 ## Languages and Tools
 
 <p align="center">
